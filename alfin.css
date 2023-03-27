@@ -343,7 +343,8 @@ header .fa-bars{
     flex:1 1 60rem;
 }
 .contact .row .image img{
-    width: 90%;
+    width:90%;
+
 }
 .contact .row form .box{
     padding:1rem;
